@@ -3,7 +3,7 @@
 # Hi, I'm Eric! <img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/hand.gif" width="30px" alt="hand"></h2>
 I'm a backend developer with about 2 years experience.
 
-[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric0117)](https://github.com/깃허브아이디/github-readme-stats)
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric0117)](https://github.com/Eric0117)
 
 you can contact me via email! 
 
