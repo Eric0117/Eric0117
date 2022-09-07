@@ -1,5 +1,9 @@
-### Hi, I'm Eric! <img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/hand.gif" width="30px" alt="hand"></h2>
+![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=Eric's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20wish%20you%20a%20nice%20day🤞&descAlignY=51&descAlign=62)
+
+# Hi, I'm Eric! <img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/hand.gif" width="30px" alt="hand"></h2>
 I'm a backend developer with about 2 years experience.
+
+[![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric0117)](https://github.com/깃허브아이디/github-readme-stats)
 
 you can contact me via email! 
 
@@ -44,3 +48,6 @@ you can contact me via email!
 ![aws-lambda](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=AWSLambda&logoColor=white&color=brightgreen)
 ![aws-rds](https://img.shields.io/badge/AWS-RDS-informational?style=flat&logo=AmazonRDS&logoColor=white&color=brightgreen)
 ![aws-apigateway](https://img.shields.io/badge/AWS-API_Gateway-informational?style=flat&logo=AmazonRDS&logoColor=white&color=brightgreen)
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=200&section=footer&text=Thanks%20for%20watching!👍&fontSize=50&fontAlignY=70)
