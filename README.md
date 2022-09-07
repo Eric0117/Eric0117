@@ -13,7 +13,7 @@ you can contact me via email!
 
 ![macos](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=yellow)
 ![linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=yellow)
-![window](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=Windows&logoColor=white&color=yellow)
+![window](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=yellow)
 ![zsh](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
 ![bash](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
 
