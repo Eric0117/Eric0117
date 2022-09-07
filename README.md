@@ -29,6 +29,8 @@ you can contact me via email!
 ![react](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blueviolet)
 ![vue](https://img.shields.io/badge/Framework-VueJS-informational?style=flat&logo=Vue.js&logoColor=white&color=blueviolet)
 
+![elasticsearch](https://img.shields.io/badge/Data-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=ff9a00)
+
 ![mysql](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![oracle](https://img.shields.io/badge/DB-Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=2bbc8a)
 
