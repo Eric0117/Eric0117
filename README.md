@@ -9,7 +9,7 @@ you can contact me via email!
 
 📫 ksh117@kakao.com
 
-![bf5fdd2c-4141-4a8e-aa8d-3082d107f225](https://github.com/Eric0117/erickor/assets/79642391/561c502c-cfda-4a21-adc8-73105c9e7d19)
+<img src="https://github.com/Eric0117/erickor/assets/79642391/561c502c-cfda-4a21-adc8-73105c9e7d19"  width="150" height="150"/>
 
 <br/><br/><br/>
 > 🎈 Make the impossible possible, make the possible easy, make the easy elegant. - Dr Moshe Feldenkrais
