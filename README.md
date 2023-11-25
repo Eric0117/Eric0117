@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=300&section=header&text=Eric's%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%20wish%20you%20a%20nice%20day🤞&descAlignY=51&descAlign=62)
 
 # Hi, I'm Eric! <img src="https://raw.githubusercontent.com/bygui86/bygui86/master/images/hand.gif" width="30px" alt="hand"></h2>
-I'm a backend developer with about 2 years experience.
+I'm a backend developer with about 4 years experience.
 
 [![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric0117)](https://github.com/Eric0117)
 
