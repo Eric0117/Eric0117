@@ -23,6 +23,7 @@ you can contact me via email!
 ![zsh](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
 ![bash](https://img.shields.io/badge/Shell-bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=yellow)
 
+![Kotlin](https://img.shields.io/badge/Language-Kotlin-informational?style=flat&logo=Kotlin&logoColor=white&color=#7F52FF)
 ![java](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=orange)
 ![javascript](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=orange)
 
@@ -46,10 +47,8 @@ you can contact me via email!
 
 ![git](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=red)
 
-![aws-ec2](https://img.shields.io/badge/AWS-EC2-informational?style=flat&logo=AmazonEC2&logoColor=white&color=brightgreen)
-![aws-lambda](https://img.shields.io/badge/AWS-Lambda-informational?style=flat&logo=AWSLambda&logoColor=white&color=brightgreen)
-![aws-rds](https://img.shields.io/badge/AWS-RDS-informational?style=flat&logo=AmazonRDS&logoColor=white&color=brightgreen)
-![aws-apigateway](https://img.shields.io/badge/AWS-API_Gateway-informational?style=flat&logo=AmazonRDS&logoColor=white&color=brightgreen)
+![gcp](https://img.shields.io/badge/Cloud-GoogleCloud-informational?style=flat&logo=googlecloud&logoColor=white&color=blue)
+![aws](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=brightgreen)
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=200&section=footer&text=Thanks%20for%20watching!👍&fontSize=50&fontAlignY=70)
